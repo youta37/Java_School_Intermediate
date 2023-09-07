@@ -1,0 +1,2 @@
+# Java_School_Intermediate
+Javaスクール中級編の成果物になります。
